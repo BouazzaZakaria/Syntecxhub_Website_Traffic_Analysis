@@ -33,7 +33,3 @@ The supplied export contains channel, date/hour, users, sessions, engaged sessio
 
 3. Keep `data_export_1.csv` in the same directory as the notebook.
 4. Open and run `Website Traffic Analysis.ipynb`.
-
-## Data and privacy
-
-The CSV is an analytics export. Review its contents and confirm you are permitted to share it before publishing or redistributing it.
